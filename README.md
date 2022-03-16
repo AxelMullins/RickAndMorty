@@ -1,6 +1,6 @@
 # Rick and Morty
 
-[Link al proyecto](https://axelmullins.github.io/RickAndMorty/)
+[Link al proyecto](https://rick-and-morty-nine-beryl.vercel.app/)
 
 - Se trata de un proyecto de práctica haciendo peticiones a la API [Rick and Morty](https://rickandmortyapi.com/).
 
